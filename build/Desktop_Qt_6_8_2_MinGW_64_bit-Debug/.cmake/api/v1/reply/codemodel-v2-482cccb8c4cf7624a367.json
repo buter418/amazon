@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-81e88b28de3d37eaf529.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Super_Warehouse_Store",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Super_Warehouse_Store::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Super_Warehouse_Store-Debug-d213e301cca2485aeb12.json",
+					"name" : "Super_Warehouse_Store",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Super_Warehouse_Store_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Super_Warehouse_Store_autogen-Debug-a9d9c6f2e5ec52f95196.json",
+					"name" : "Super_Warehouse_Store_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Super_Warehouse_Store_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Super_Warehouse_Store_autogen_timestamp_deps-Debug-7765664dfc37cb4b0e61.json",
+					"name" : "Super_Warehouse_Store_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Lukas Li/source/repos/Lukas Li projects/Super_Warehouse_Store/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Lukas Li/source/repos/Lukas Li projects/Super_Warehouse_Store"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
